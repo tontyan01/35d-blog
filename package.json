@@ -1,12 +1,8 @@
 {
-  "name": "notion-nextjs-blog",
+  "name": "notion-blog-amon",
   "description": "A starter blog template powered by Next.js, Notion and Tailwind CSS",
   "version": "0.1.0",
-  "author": {
-    "name": "Lucio Villa",
-    "email": "hi@luciovilla.com",
-    "url": "https://luciovilla.com"
-  },
+  "author": "Lucio Villa <hi@luciovilla.com> (https://luciovilla.com)",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
@@ -35,5 +31,7 @@
     "postcss": "8.2.15",
     "tailwindcss": "2.1.2",
     "typescript": "^4.4.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/tontyan01/35d-blog.git"
 }

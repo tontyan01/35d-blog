@@ -20,7 +20,7 @@ const Navigation = ({ titlePre = '', ogImageUrl = '', description = '', slug = '
       <ul className="list-none">
         <li className={'mb-4 font-bold text-lg'}>
           <Link href={'/'} prefetch={false}>
-            <a className="no-underline">35D BLOG</a>
+            <a className="no-underline">AMON BLOG</a>
           </Link>
         </li>
         {navItems.map(({ label, page, link }) => (
